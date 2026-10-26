@@ -83,3 +83,9 @@ Designed charts and visual reports to:
 
 > 📌 This project demonstrates how Microsoft Excel can be used to clean, analyse, visualise, and communicate insights from real-world business data.
 
+<img width="445" height="492" alt="image" src="https://github.com/user-attachments/assets/1443d68f-ac61-46f0-966f-8cbb198f69b1" />
+
+<img width="1411" height="615" alt="image" src="https://github.com/user-attachments/assets/141cb2d2-78d5-4b32-9af5-7fba6ca10718" />
+
+<img width="642" height="553" alt="image" src="https://github.com/user-attachments/assets/f334a4e6-0f38-4c1c-b61a-0c3751958903" />
+
