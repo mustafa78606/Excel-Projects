@@ -89,3 +89,10 @@ Designed charts and visual reports to:
 
 <img width="642" height="553" alt="image" src="https://github.com/user-attachments/assets/f334a4e6-0f38-4c1c-b61a-0c3751958903" />
 
+<img width="691" height="460" alt="image" src="https://github.com/user-attachments/assets/d4a8e549-1a94-44ab-9f40-09adfde54cec" />
+
+<img width="685" height="462" alt="image" src="https://github.com/user-attachments/assets/289075fd-b566-42e4-a2cf-e9579cbe6023" />
+
+
+
+
